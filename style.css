@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+header {text-align: center;}
+div{float: left;}
+img.centered{display: block;
+margin: auto;}
+a{padding-left: 10px; padding-right: 10px;}
+#featured-property{width: 800px; text-align: center;}
+div{background-color: #c76b6b; text-align: center; margin: auto;
+width: 225px; } 
